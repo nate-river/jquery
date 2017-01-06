@@ -1,1 +1,1 @@
-jquery api see https://nate-river.github.io/jquey
+jquery api see https://nate-river.github.io/jquery
